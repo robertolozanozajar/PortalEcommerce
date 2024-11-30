@@ -20,4 +20,3 @@ document.querySelectorAll('.add-to-cart').forEach(button => {
     alert(`${product.name} añadido al carrito.`);
   });
 });
-tiene menú contextual
