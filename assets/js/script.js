@@ -97,6 +97,6 @@ if (document.querySelector('.cart-items')) {
 if (document.querySelector('.purchase-details')) {
   loadPurchaseDetails();
 }
-tiene menú contextual
+
 
 
