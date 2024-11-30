@@ -21,7 +21,6 @@ const products = [
     });
   });
  
- 
 // Función para cargar los productos del carrito en carrito.html
 function loadCartItems() {
   const cartItemsContainer = document.querySelector('.cart-items');
