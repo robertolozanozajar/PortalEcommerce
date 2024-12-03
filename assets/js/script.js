@@ -5,9 +5,9 @@ const products = [
     { id: 1, name: "Casco", price: 250000, img: "PROTECTOR-DE-CABEZA-TAEKWONDO.PNG" },
     { id: 2, name: "Guantes", price: 35000, img: "smartphone.jpg" },
     { id: 3, name: "protector de pie", price: 45000, img: "sofa.jpg" },
-    { id: 4, name: "complementos", price: 230000, img: "lamp.jpg" },
-    { id: 5, name: "Bicicleta", price: 450000, img: "bike.jpg" },
-    { id: 6, name: "Balón de fútbol", price: 15000, img: "football.jpg" },
+    { id: 4, name: "Bodog", price: 230000, img: "uniforme.jpg" },
+    { id: 5, name: "complementos1", price: 450000, img: "uniforme con pechera.jpg" },
+    { id: 6, name: "complementos2", price: 15000, img: "cinturones tkd.jpg" },
   ];
  
   // Agregar producto al carrito
