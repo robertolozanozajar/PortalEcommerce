@@ -6,7 +6,7 @@ body {
   color: #333;
 }
  
-header {
+.header {
   background: #0056d6;
   color: #fff;
   padding: 20px;
@@ -15,7 +15,7 @@ header {
   align-items: center;
 }
  
-header nav a {
+.header nav a {
   color: white;
   text-decoration: none;
   margin: 0 15px;
