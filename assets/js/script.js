@@ -2,10 +2,10 @@ let cart = JSON.parse(localStorage.getItem('cart')) || [];
  
 // Manejo de productos dinámico
 const products = [
-    { id: 1, name: "Laptop", price: 250000, img: "pantalla-de-portatil.png" },
-    { id: 2, name: "Smartphone", price: 35000, img: "smartphone.jpg" },
-    { id: 3, name: "Sofá", price: 45000, img: "sofa.jpg" },
-    { id: 4, name: "Lámpara", price: 230000, img: "lamp.jpg" },
+    { id: 1, name: "Casco", price: 250000, img: "PROTECTOR-DE-CABEZA-TAEKWONDO.PNG" },
+    { id: 2, name: "Guantes", price: 35000, img: "smartphone.jpg" },
+    { id: 3, name: "protector de pie", price: 45000, img: "sofa.jpg" },
+    { id: 4, name: "complementos", price: 230000, img: "lamp.jpg" },
     { id: 5, name: "Bicicleta", price: 450000, img: "bike.jpg" },
     { id: 6, name: "Balón de fútbol", price: 15000, img: "football.jpg" },
   ];
